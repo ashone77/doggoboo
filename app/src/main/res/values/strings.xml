@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoggoBoo</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="chicken">Chicken</string>
+    <string name="owl">Owl</string>
+</resources>
